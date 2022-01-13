@@ -1,0 +1,14 @@
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\bin\Release\netcoreapp3.1\Projekt_zaliczeniowy.exe
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\bin\Release\netcoreapp3.1\Projekt_zaliczeniowy.deps.json
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\bin\Release\netcoreapp3.1\Projekt_zaliczeniowy.runtimeconfig.json
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\bin\Release\netcoreapp3.1\Projekt_zaliczeniowy.runtimeconfig.dev.json
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\bin\Release\netcoreapp3.1\Projekt_zaliczeniowy.dll
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\bin\Release\netcoreapp3.1\Projekt_zaliczeniowy.pdb
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.csproj.AssemblyReference.cache
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.AssemblyInfoInputs.cache
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.AssemblyInfo.cs
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.dll
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.pdb
+C:\Users\Damian\source\repos\Projekt_zaliczeniowy\Projekt_zaliczeniowy\Projekt_zaliczeniowy\obj\Release\netcoreapp3.1\Projekt_zaliczeniowy.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Damian\Downloads\projekt\Projekt_zaliczeniowy.exe
+C:\Users\Damian\Downloads\projekt\Projekt_zaliczeniowy.dll
+C:\Users\Damian\Downloads\projekt\Projekt_zaliczeniowy.deps.json
+C:\Users\Damian\Downloads\projekt\Projekt_zaliczeniowy.runtimeconfig.json
+C:\Users\Damian\Downloads\projekt\Projekt_zaliczeniowy.pdb

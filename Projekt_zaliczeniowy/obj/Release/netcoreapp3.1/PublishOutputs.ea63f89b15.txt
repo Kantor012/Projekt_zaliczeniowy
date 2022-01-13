@@ -1,0 +1,5 @@
+C:\Users\Damian\Desktop\lolotrio\Projekt_zaliczeniowy.exe
+C:\Users\Damian\Desktop\lolotrio\Projekt_zaliczeniowy.dll
+C:\Users\Damian\Desktop\lolotrio\Projekt_zaliczeniowy.deps.json
+C:\Users\Damian\Desktop\lolotrio\Projekt_zaliczeniowy.runtimeconfig.json
+C:\Users\Damian\Desktop\lolotrio\Projekt_zaliczeniowy.pdb
